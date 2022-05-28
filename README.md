@@ -33,3 +33,23 @@ https://github.com/fasha-20/Lab10Web
 # Tugas
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
 database, sehingga setiap halamannya memiliki template tampilan yang sama
+
+## Tampilan Index
+
+![5.png](gambar/5.png)
+
+
+
+
+
+## Tampilan Tambah
+
+![6.png](gambar/6.png)
+
+
+
+
+
+## Tampilan Ubah
+
+![7.png](gambar/7.png)

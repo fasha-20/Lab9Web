@@ -42,15 +42,6 @@ if (isset($_POST['submit'])) {
       font-family: 'Times New Roman', Times, serif;
     }
 
-    .container {
-      width: 350px;
-      background: grey;
-      margin: 50px auto;
-      padding: 20px 20px;
-      border-radius: 20px;
-      box-shadow: 5px 15px 35px #1b1d1c;
-    }
-
     h1 {
       text-align: center;
       text-transform: uppercase;
@@ -59,6 +50,15 @@ if (isset($_POST['submit'])) {
     hr {
       margin-top: 10px;
       margin-bottom: 20px;
+    }
+
+    .main {
+      width: 350px;
+      background: grey;
+      margin: 50px auto;
+      padding: 20px 20px;
+      border-radius: 20px;
+      box-shadow: 5px 15px 35px #1b1d1c;
     }
 
     .nama {
