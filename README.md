@@ -1,3 +1,6 @@
+# Link Praktikum 10
+https://github.com/fasha-20/Lab10Web
+
 # Lab9_PHP_Modular
 ## Membuat file header.php
 
